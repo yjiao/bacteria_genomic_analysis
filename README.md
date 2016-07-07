@@ -15,11 +15,11 @@ The plot on the right displays "FC" parameters as gray dots (variants not passin
 ![Viewer](viewer1.png)
 
 Clicking on any blue dot brings up the breseq HTML page, which displays information on the mutation as well as read alignments.
-![Viewer](viewer2.png =500x)
+![Viewer](viewer2.png)
 
 Clicking on a particular point will also display relevant data on the lower right corner of the window.
-![Viewer](viewer4.png =500x)
+![Viewer](viewer4.png)
 
 Choosing the same variable for the x and y coordinates draw histograms for the parameter values.
-![Viewer](viewer3.png =500x)
+![Viewer](viewer3.png)
 
