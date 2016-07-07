@@ -12,7 +12,7 @@ A screenshot of the breseq viewer. Breseq parameters are displayed on the right 
 
 The plot on the right displays "FC" parameters as gray dots (variants not passing all filters), and "real" variants (passing all filters) as blue dots.
 
-![Viewer](viewer1.png =500x)
+![Viewer](viewer1.png)
 
 Clicking on any blue dot brings up the breseq HTML page, which displays information on the mutation as well as read alignments.
 ![Viewer](viewer2.png =500x)
