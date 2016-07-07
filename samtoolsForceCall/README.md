@@ -10,6 +10,11 @@ The current scripts were written with the directory structure of breseq in mind.
 
 
 ## Usage
+To compile:
+```
+g++ parsePileup.cpp -o parse
+```
+
 **mutationlist.csv** should be a comma delimited file of chromosomal position, reference, and alternate alleles.
 
 Sample mutationlist.csv:
